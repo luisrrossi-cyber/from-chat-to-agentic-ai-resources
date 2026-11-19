@@ -6,7 +6,7 @@ This public repository contains the editable project templates that accompany *F
 
 ## Download
 
-On GitHub, select **Code → Download ZIP** to get the repository. The archive includes this guide and the files in `starter-kit/`.
+**[Download the Starter Kit as a ZIP](https://github.com/luisrrossi-cyber/from-chat-to-agentic-ai-resources/archive/refs/heads/main.zip).** You can also select **Code → Download ZIP** on this page. The archive includes this guide and the files in `starter-kit/`.
 
 ## What is included
 
