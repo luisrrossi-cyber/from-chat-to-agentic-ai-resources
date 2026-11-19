@@ -18,9 +18,9 @@ This public repository contains the editable project templates that accompany *F
 | `DECISIONS_TEMPLATE.md` | Preserve durable choices and the reason for each one. |
 | `EVIDENCE_TEMPLATE.md` | Record sources and checks that were actually performed. |
 | `HANDOFF_TEMPLATE.md` | Help another session or assistant continue from the current state. |
-| `ACCEPTANCE_CHECKLIST.md` | Review one deliverable before treating it as complete. |
+| `ACCEPTANCE_CHECKLIST.md` | Review one deliverable before treating it as complete. |\n| `RECOVERY_CHECKLIST.md` | Restore project work safely after account, device, or session loss. |\n| `tools/check_markdown_links.py` | Optionally check relative Markdown file links and heading anchors locally. |
 
-The folder also includes its own `README.md` with setup steps.
+The folder also includes its own `README.md` with setup steps. The link checker uses only Python's standard library; it does not check external URLs or verify factual content.
 
 ## Start safely
 
