@@ -13,3 +13,8 @@ Use these templates to organize one project that continues beyond a single chat.
 Keep credentials, access tokens, passwords, recovery codes, and unnecessary personal or customer data out of these files. Do not store your own project files in this public download repository. If you copy them into GitHub, use a private repository for sensitive work and verify its access settings. Start with read access or manual file sharing; give tools write access only when needed.
 
 These templates are a starting point. Remove sections that do not serve your project and add project-specific instructions only after you understand the workflow.
+
+## Additional tools
+
+- [Project Recovery Checklist](RECOVERY_CHECKLIST.md) for restoring a workspace after account, device, or session loss.
+- [Optional Markdown link checker](tools/check_markdown_links.py). Run with `python tools/check_markdown_links.py .` from a project folder. It checks relative Markdown file links and heading anchors, not external URLs or factual accuracy.
